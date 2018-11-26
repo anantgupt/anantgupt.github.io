@@ -54,15 +54,15 @@ ul.posts li {
 
 caption {
     padding: 8px;
-    caption-side: bottom;
+    caption-side: top;
+    font-size: 1.5em;
 }
 
 table {
     border-collapse: collapse;
     border: 2px solid rgb(100, 100, 100);
     letter-spacing: 1px;
-    font-family: sans-serif;
-    font-size: .7rem;
+    font-size: 1em;
 }
 
 td,
