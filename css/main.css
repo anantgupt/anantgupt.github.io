@@ -20,8 +20,8 @@ max-width: 50%;
 }
 
 .left {
-  align-items: center;
-  justify-content: center;
+  align-items: left;
+  justify-content: left;
 }
 
 nav ul, footer ul {
