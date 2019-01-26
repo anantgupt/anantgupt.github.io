@@ -75,33 +75,16 @@ table {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
-.wrapper {
-  background-color: lightpink;
-  
-  max-width: 50%;
-  display: flex;
-  flex-direction: row;
-  height: 80%;
+.column {
+  float: left;
+  width: 50%;
 }
 
-.left, .right {
-  background-color: lightblue;
-  
-  margin: 5px;
-  max-width: 50%;
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
-
-.left {
-  align-items: center;
-  justify-content: center;
-}
-
-.profile-picture {
-  border-radius: 50%;
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
 td,
