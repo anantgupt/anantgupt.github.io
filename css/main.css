@@ -18,8 +18,8 @@ body {
 }
 
 .left {
-  align-items: left;
-  justify-content: left;
+  align-items: center;
+  justify-content: center;
 }
 
 nav ul, footer ul {
