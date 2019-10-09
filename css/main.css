@@ -57,7 +57,7 @@ header nav a:not(:last-child) {
 }
 
 header h1, header nav, main {
-    max-width: 640px;
+    max-width: 760px;
     width: 100%;
     margin: 0px auto;
 }
