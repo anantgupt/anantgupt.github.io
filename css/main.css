@@ -6,7 +6,12 @@ body {
     margin: 60px auto;
     width: 70%;
 }
+.wrapper {
 
+  display: flex;
+  flex-direction: row;
+  height: 75%;
+}
 header, section, main, nav {
     display: block;
 }
