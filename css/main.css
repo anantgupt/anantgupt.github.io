@@ -160,3 +160,7 @@ td {
   clear: both;
   display: table;
 }
+
+figcaption {
+  display: block;
+}
