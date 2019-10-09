@@ -3,8 +3,7 @@
 /* The first part of a stylesheet is a "reset" to fix undesirable default behaviour */
 
 body {
-    margin: 10px
-    width: 70%;
+    margin: 0;
 }
 
 header, section, main, nav {
