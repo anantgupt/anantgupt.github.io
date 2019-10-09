@@ -3,15 +3,14 @@
 /* The first part of a stylesheet is a "reset" to fix undesirable default behaviour */
 
 body {
-    margin: 60px auto;
-    width: 70%;
+    margin: 0;
 }
-.wrapper {
+/*.wrapper {
 
   display: flex;
   flex-direction: row;
   height: 75%;
-}
+}*/
 header, section, main, nav {
     display: block;
 }
@@ -109,7 +108,7 @@ h2 {
         padding: 0 10px;
     }
 }
-/*
+
 ### From old
 .Intermediate {
     background-color: #d7d9f2;
@@ -148,7 +147,7 @@ th {
 td {
     text-align: center;
 }
-/* Three image containers (use 25% for four, and 50% for two, etc) */
+/* Three image containers (use 25% for four, and 50% for two, etc) 
 /*.column {
   float: left;
   width: 33.33%;
