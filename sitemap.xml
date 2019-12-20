@@ -3,11 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/authors/admin/</loc>
+    <loc>/</loc>
+    <lastmod>2019-12-19T19:14:12-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/project/</loc>
+    <lastmod>2019-12-19T19:14:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/saga/</loc>
+    <lastmod>2019-12-19T19:14:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/saasa/</loc>
+    <lastmod>2018-12-19T19:32:16-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/xres/</loc>
+    <lastmod>2017-12-19T19:40:14-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
   </url>
   
   <url>

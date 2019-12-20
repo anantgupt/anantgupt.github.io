@@ -5,12 +5,36 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Dec 2019 19:14:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Academic</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Spatial data association</title>
+      <link>/project/saga/</link>
+      <pubDate>Thu, 19 Dec 2019 19:14:12 -0800</pubDate>
+      <guid>/project/saga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Array Design</title>
+      <link>/project/saasa/</link>
+      <pubDate>Wed, 19 Dec 2018 19:32:16 -0800</pubDate>
+      <guid>/project/saasa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Super-Resolution Algorithms</title>
+      <link>/project/xres/</link>
+      <pubDate>Tue, 19 Dec 2017 19:40:14 -0800</pubDate>
+      <guid>/project/xres/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
