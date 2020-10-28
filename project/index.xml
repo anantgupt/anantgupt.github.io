@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Anant Gupta</title>
-    <link>/project/</link>
-      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://anantgupt.github.io/project/</link>
+      <atom:link href="https://anantgupt.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Dec 2019 19:14:12 -0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Sat, 27 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://anantgupt.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
-      <link>/project/</link>
+      <link>https://anantgupt.github.io/project/</link>
     </image>
     
     <item>
-      <title>Spatial data association</title>
-      <link>/project/saga/</link>
-      <pubDate>Thu, 19 Dec 2019 19:14:12 -0800</pubDate>
-      <guid>/project/saga/</guid>
+      <title>SPATIAL DATA ASSOCIATION</title>
+      <link>https://anantgupt.github.io/project/saga/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://anantgupt.github.io/project/saga/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Sparse Array Design</title>
-      <link>/project/saasa/</link>
-      <pubDate>Wed, 19 Dec 2018 19:32:16 -0800</pubDate>
-      <guid>/project/saasa/</guid>
+      <title>SPARSE ARRAY DESIGN</title>
+      <link>https://anantgupt.github.io/project/saasa/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://anantgupt.github.io/project/saasa/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Super-Resolution Algorithms</title>
-      <link>/project/xres/</link>
-      <pubDate>Tue, 19 Dec 2017 19:40:14 -0800</pubDate>
-      <guid>/project/xres/</guid>
+      <title>SUPER-RESOLUTION ALGORITHMS</title>
+      <link>https://anantgupt.github.io/project/xres/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://anantgupt.github.io/project/xres/</guid>
       <description></description>
     </item>
     

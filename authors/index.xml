@@ -2,24 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Anant Gupta</title>
-    <link>/authors/</link>
-      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://anantgupt.github.io/authors/</link>
+      <atom:link href="https://anantgupt.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>2020</copyright>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://anantgupt.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
-      <link>/authors/</link>
+      <link>https://anantgupt.github.io/authors/</link>
     </image>
-    
-    <item>
-      <title></title>
-      <link>/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;I work with &lt;a href=&#34;https://wcsl.ece.ucsb.edu/people/upamanyu-madhow&#34;&gt;Prof. Upamanyu Madhow&lt;/a&gt; in the WCSL lab at UCSB . My research aims at developing sensing and inference frameworks for low cost millimeter wave systems. I have professional work experience in algorithm design and development projects for wireless technologies such as 5G mmW, 802.11x WLAN, NFC, GPS. My interest lie at streamlining signal processing frameworks for sensing in autonomous applications.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>
