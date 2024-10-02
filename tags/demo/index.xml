@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Demo | Dr. Anant Gupta homepage</title>
+    <link>https://anantgupt.github.io/tags/demo/</link>
+      <atom:link href="https://anantgupt.github.io/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Demo</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://anantgupt.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Demo</title>
+      <link>https://anantgupt.github.io/tags/demo/</link>
+    </image>
+    
+    <item>
+      <title>SPATIAL DATA ASSOCIATION</title>
+      <link>https://anantgupt.github.io/project/saga/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://anantgupt.github.io/project/saga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPARSE ARRAY DESIGN</title>
+      <link>https://anantgupt.github.io/project/saasa/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://anantgupt.github.io/project/saasa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SUPER-RESOLUTION ALGORITHMS</title>
+      <link>https://anantgupt.github.io/project/xres/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://anantgupt.github.io/project/xres/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

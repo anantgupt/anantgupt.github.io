@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Article-Journal | Dr. Anant Gupta homepage</title>
+    <link>https://anantgupt.github.io/publication_types/article-journal/</link>
+      <atom:link href="https://anantgupt.github.io/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Article-Journal</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://anantgupt.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Article-Journal</title>
+      <link>https://anantgupt.github.io/publication_types/article-journal/</link>
+    </image>
+    
+    <item>
+      <title>Multi-Sensor Spatial Association Using Joint Range-Doppler Features</title>
+      <link>https://anantgupt.github.io/publication/journal-article2/</link>
+      <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://anantgupt.github.io/publication/journal-article2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of Large Effective Apertures for Millimeter Wave Systems Using a Sparse Array of Subarrays</title>
+      <link>https://anantgupt.github.io/publication/journal-article/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://anantgupt.github.io/publication/journal-article/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

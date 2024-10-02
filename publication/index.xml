@@ -1,16 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Anant Gupta</title>
+    <title>Publications | Dr. Anant Gupta homepage</title>
     <link>https://anantgupt.github.io/publication/</link>
       <atom:link href="https://anantgupt.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>2020</copyright>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://anantgupt.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://anantgupt.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Publications</title>
       <link>https://anantgupt.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Multi-Sensor Spatial Association Using Joint Range-Doppler Features</title>
+      <link>https://anantgupt.github.io/publication/journal-article2/</link>
+      <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://anantgupt.github.io/publication/journal-article2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of Large Effective Apertures for Millimeter Wave Systems Using a Sparse Array of Subarrays</title>
+      <link>https://anantgupt.github.io/publication/journal-article/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://anantgupt.github.io/publication/journal-article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Super-resolution in position and velocity estimation for short-range mm-wave radar</title>
+      <link>https://anantgupt.github.io/publication/conference-paper/</link>
+      <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://anantgupt.github.io/publication/conference-paper/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

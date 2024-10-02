@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Estimation Theory | Dr. Anant Gupta homepage</title>
+    <link>https://anantgupt.github.io/tags/estimation-theory/</link>
+      <atom:link href="https://anantgupt.github.io/tags/estimation-theory/index.xml" rel="self" type="application/rss+xml" />
+    <description>Estimation Theory</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://anantgupt.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Estimation Theory</title>
+      <link>https://anantgupt.github.io/tags/estimation-theory/</link>
+    </image>
+    
+    <item>
+      <title>Design of Large Effective Apertures for Millimeter Wave Systems Using a Sparse Array of Subarrays</title>
+      <link>https://anantgupt.github.io/publication/journal-article/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://anantgupt.github.io/publication/journal-article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Super-resolution in position and velocity estimation for short-range mm-wave radar</title>
+      <link>https://anantgupt.github.io/publication/conference-paper/</link>
+      <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://anantgupt.github.io/publication/conference-paper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
